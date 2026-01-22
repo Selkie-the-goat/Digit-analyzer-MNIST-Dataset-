@@ -1,4 +1,4 @@
-# 🧠 Pure NumPy Handwritten Digit Classifier
+# 🧠 NumPy Handwritten Digit Classifier
 
 A professional-grade implementation of a Multilayer Perceptron (MLP) built entirely from scratch using **Python and NumPy**. This project demonstrates the mathematical foundations of deep learning by implementing backpropagation and gradient descent without the aid of high-level frameworks like TensorFlow or PyTorch.
 
