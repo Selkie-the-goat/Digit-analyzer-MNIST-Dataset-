@@ -47,9 +47,10 @@ The model was trained using a custom NumPy-based cross-entropy loss function:
 ### 1. Installation
 Clone the repo and install the minimal dependencies:
 ```bash
-git clone [https://github.com/Selkie-the-goat/Digit-analyzer-MNIST-Dataset-.git](https://github.com/Selkie-the-goat/Digit-analyzer-MNIST-Dataset-.git)
+git clone 'https://github.com/Selkie-the-goat/Digit-analyzer-MNIST-Dataset-.git'
 cd numpy-digit-classifier
 
 pip install numpy pillow pandas
 ```
 #⚠️The MNIST training set has not be provided here. It can be downloaded from :https://www.kaggle.com/datasets/oddrationale/mnist-in-csv if you want to tweak and train the model further
+
