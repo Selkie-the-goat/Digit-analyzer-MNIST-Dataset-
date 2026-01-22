@@ -35,11 +35,11 @@ The engine powers a 3-layer dense network:
 
 ## 🖼️ Application Preview
 Here is the GUI in action:
-![Application Screenshot](assets/app.png)
+![Application Screenshot](app.png)
 
 ## 📊 Training Performance
 The model was trained using a custom NumPy-based cross-entropy loss function:
-![Training Accuracy Graph](assets/test.png)
+![Training Accuracy Graph](test.png)
 
 ---
 ## 🚀 Getting Started
@@ -53,4 +53,5 @@ cd numpy-digit-classifier
 pip install numpy pillow pandas
 ```
 #⚠️The MNIST training set has not be provided here. It can be downloaded from :https://www.kaggle.com/datasets/oddrationale/mnist-in-csv if you want to tweak and train the model further
+
 
